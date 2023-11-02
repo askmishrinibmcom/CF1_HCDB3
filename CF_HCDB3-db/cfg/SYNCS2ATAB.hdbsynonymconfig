@@ -1,0 +1,8 @@
+{
+    "SYNCS2ATAB": {
+      "target": {
+        "object": "C1H1HDI1TABLE",
+        "schema.configure": "UPSCASE2/schema"
+      }
+    }
+  }
